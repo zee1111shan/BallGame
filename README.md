@@ -1,5 +1,7 @@
 # BallGame
 
+My Name - Zeeshan Anwar
+
 This is a simple ball game where you can control 
 a ball using left and right half of the screen 
 using touch controls in android and can also jump
